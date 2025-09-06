@@ -1,2 +1,2 @@
 # fgoimg
-fgo image
+自分用
